@@ -9,6 +9,12 @@
 
 ![dill pickles in a jar and on a plate](images/dill.jpeg)
 
+Here are somethings you need to make dill pickles
+
+*vinegar
+*salt
+*garlic
+
 ###Bread and Butter
 
 [B and B Recipe](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.browneyedbaker.com/bread-and-butter-pickles/&ved=2ahUKEwig89DdooeIAxUASzABHTepDfcQFnoECBIQAQ&usg=AOvVaw3kBG3xpxSdYu_0A2nf68h2)
