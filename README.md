@@ -21,3 +21,9 @@ Here are some ingredients
 
 ![bread and butter pickles in a jar](images/b%20and%20b%20pickle.jpeg)
 
+Here are some ingredients
+
+1. tumeric
+2. clove
+3. celery seed
+
