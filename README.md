@@ -1,9 +1,9 @@
 # 517-Marlier-pickles
  Homework 8/27
 
-##Types of Pickles
+## Types of Pickles
 
-###Dill
+### Dill
 
 [Dill Pickle Recipe](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/dill-pickles-recipe/&ved=2ahUKEwji2Oi4ooeIAxWVTTABHbGxFQ0QFnoECCYQAQ&usg=AOvVaw3gyto3o4o5qpsPe-Eta9dm)
 
@@ -15,7 +15,7 @@ Here are some ingredients
 * salt
 * garlic
 
-###Bread and Butter
+### Bread and Butter
 
 [B and B Recipe](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.browneyedbaker.com/bread-and-butter-pickles/&ved=2ahUKEwig89DdooeIAxUASzABHTepDfcQFnoECBIQAQ&usg=AOvVaw3kBG3xpxSdYu_0A2nf68h2)
 
