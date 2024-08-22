@@ -9,6 +9,11 @@
 
 ![dill pickles in a jar and on a plate](images/dill%20pickle.jpeg)
 
+Here are some ingredients
+
+* vinegar
+* salt
+* garlic
 
 ###Bread and Butter
 
