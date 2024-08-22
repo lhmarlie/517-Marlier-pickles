@@ -11,9 +11,9 @@
 
 Here are somethings you need to make dill pickles
 
-*vinegar
-*salt
-*garlic
+* vinegar
+* salt
+* garlic
 
 ###Bread and Butter
 
